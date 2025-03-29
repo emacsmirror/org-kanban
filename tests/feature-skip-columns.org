@@ -1,0 +1,5 @@
+* TODO 1
+* DONE 2
+
+#+BEGIN: kanban :skip-columns ("TODO") :link nil
+#+END:
